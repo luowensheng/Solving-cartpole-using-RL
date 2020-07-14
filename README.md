@@ -1,9 +1,10 @@
 # Solving-cartpole-using-RL
 Solving cartpole using RL implementation
 
-Methods used 
+**Methods used **
+___
 
-Tabular Q-learning method. 
+* Tabular Q-learning method. 
 
 • Policy Gradient method.
 
