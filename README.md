@@ -6,8 +6,6 @@ _Solving cartpole using RL implementation_
 **Methods used :**
 ```
 1. Tabular Q-learning method. 
-
 1. Policy Gradient method.
-
 1. Actor-Critic method
 ```
