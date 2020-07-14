@@ -4,15 +4,15 @@
 _Solving cartpole using RL implementation_
 
 **Methods used :**
-```
+
 * Tabular Q-learning method. 
 ![Image](https://miro.medium.com/max/2090/1*fPUV2_S21qNfbgS7mo5oGw.png)
-```
-```
+
+
 • Policy Gradient method.
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaMa5bRPYyQcvveR16fPP6UTqNx06dlgjJ5A&usqp=CAU)
-```
-```
+
+
 • Actor-Critic method
 ![Image](https://miro.medium.com/max/5734/1*BVh9xq3VYEsgz6eNB3F6cA.png)
-```
+
