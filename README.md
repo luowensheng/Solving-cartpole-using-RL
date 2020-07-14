@@ -4,7 +4,9 @@ ___
 
 _Solving cartpole using RL implementation_
 
+
 **Methods used :**
+
 ```
 1. Tabular Q-learning method. 
 2. Policy Gradient method.
