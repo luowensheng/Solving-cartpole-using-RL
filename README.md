@@ -57,7 +57,7 @@ Visit https://gym.openai.com/docs/ for more detail.
 * Policy Gradient method
 * Actor-Critic method
 
->*Google colab was used for this project.*
+>***Google colab** was used for this project.*
 
 # Results
 ### **Tabular Q-learning method**
