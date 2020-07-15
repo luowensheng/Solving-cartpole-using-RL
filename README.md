@@ -1,10 +1,10 @@
-# Solving Cartpole Using Reinforcement Learning
+<h1 align="center">Solving Cartpole Using Reinforcement Learning
+</h1>
+<p align="center">
+    <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Made with-Jupyter Notebook-Orange.svg"></a>
+    <a href="https://github.com/luowensheng/DIP-Image-Restoration-Homomorphic-filtering-/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+    <a href="https://github.com/luowensheng"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
-
-
-![Generic badge](https://img.shields.io/badge/Jupyter-orange.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/luowensheng/Solving-cartpole-using-RL/pulse)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/luowensheng)
 
 [Goal & To Do](#Goal-&-To-Do) • [Step by Step](#Step-by-Step) • [Implementation](#Implementation) • [Results](#Results) • [Questions](#Questions)
 
