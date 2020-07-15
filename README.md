@@ -2,17 +2,16 @@
 </h1>
 <p align="center">
     <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Made with-Jupyter Notebook-Orange.svg"></a>
-    <a href="https://github.com/luowensheng/DIP-Image-Restoration-Homomorphic-filtering-/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+    <a href="https://github.com/luowensheng/Solving-cartpole-using-RL/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
     <a href="https://github.com/luowensheng"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
-
-[Goal & To Do](#Goal-&-To-Do) • [Step by Step](#Step-by-Step) • [Implementation](#Implementation) • [Results](#Results) • [Questions](#Questions)
-
-</center>
-<br>
-<br>
-<br>
-
+<p align="center">
+  <a href="#Goal-&-To-Do">Goal & To Do</a> •
+  <a href="#Step-by-Step">Step by Step</a> •
+  <a href="#Implementation">Implementation</a> •
+  <a href="#Results">Results</a> •
+  <a href="#Questions">Questions</a>
+</p>
 
 # Goal and To Do
 The goal of this test is **to solve a classic control problem by implementing multiple reinforcement learning methods**.
