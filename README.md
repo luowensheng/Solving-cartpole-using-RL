@@ -12,6 +12,7 @@
   <a href="#Results">Results</a> •
   <a href="#Questions">Questions</a>
 </p>
+<br>
 
 # Goal and To Do
 The goal of this test is **to solve a classic control problem by implementing multiple reinforcement learning methods**.
