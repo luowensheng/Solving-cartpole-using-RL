@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/0FmPqfm/logo1a.png"></a>
+</p>
+
 <h1 align="center">Solving Cartpole Using Reinforcement Learning
 </h1>
 <p align="center">
@@ -15,11 +19,15 @@
 <br>
 
 # Goal and To Do
+[(Back to top :arrow_up_small:)](#Solving-Cartpole-Using-Reinforcement-Learning)
+
 The goal of this test is **to solve a classic control problem by implementing multiple reinforcement learning methods**.
 
 In this test, we have to implement the algorithms all by our own.
 
 # Step by Step
+[(Back to top :arrow_up_small:)](#Solving-Cartpole-Using-Reinforcement-Learning)
+
 * **Environment**
     - We’ll use Cartpole-v1 (OpenAI Gym library) as our environment. To use this environment, we should install it on your machine. Run the command (We’ll need Python 3.5+):
         ```
@@ -52,6 +60,8 @@ In this test, we have to implement the algorithms all by our own.
 Visit https://gym.openai.com/docs/ for more detail.
 
 # Implementation
+[(Back to top :arrow_up_small:)](#Solving-Cartpole-Using-Reinforcement-Learning)
+
 ### **What to implement:**
 * Tabular Q-learning method (How to transform continuous state to discrete state?)
 * Policy Gradient method
@@ -60,6 +70,8 @@ Visit https://gym.openai.com/docs/ for more detail.
 >***Google colab** was used for this project.*
 
 # Results
+[(Back to top :arrow_up_small:)](#Solving-Cartpole-Using-Reinforcement-Learning)
+
 ### **Tabular Q-learning method**
 ![tabular](https://i.ibb.co/FXd1wGz/2.jpg)
 
@@ -84,5 +96,11 @@ The agent was able to perform much faster than the q-learning agent and it reach
 
 
 # Questions
+[(Back to top :arrow_up_small:)](#Solving-Cartpole-Using-Reinforcement-Learning)
+
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues).
 
+<br>
+<p align="center">  
+  <sub>© luowensheng.
+  </a>
